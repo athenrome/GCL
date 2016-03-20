@@ -53,3 +53,7 @@ External repos or pages that may be of use.
 - [Moments] (https://github.com/Chman/Moments) In game gif recording
 - [Vexe] (https://github.com/vexe/VFW) Helpers and extensions for writing inspectors/editor windows
 - [NinjaRope] (https://github.com/Pampattitude/NinjaRope) Worms style ninja rope system
+
+- [MoveToPoint] (https://www.assetstore.unity3d.com/en/#!/content/2704)
+- [AIPatrol](https://www.assetstore.unity3d.com/en/#!/content/2704)
+- [High Score](https://www.assetstore.unity3d.com/en/#!/content/14837)
